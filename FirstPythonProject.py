@@ -1,5 +1,2 @@
-print("Shopping Cart")
-x, y, z = "Orange "," Banana ", " Apple "
-basket = x+y+z
-print("I bought ....")
-print(basket)
+print("Hello I my Imagine World :)")
+print("الخطوة الأولى للوصول إلى مئة يوم برمجة")
